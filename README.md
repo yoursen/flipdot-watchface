@@ -1,29 +1,6 @@
-# README #
+# Flipdot Android Wear Watchface #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Design of this watch face was inspired by flipdot information boards typically in airports and railway stations. It has smooth flip animation every minute in interactive mode, and two dim modes - normal dim and screen burn-in protection dim mode. It works fine on round an square devices.
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+## Preview
+![Screenshot](./logo.jpg)
