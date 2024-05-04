@@ -4,3 +4,6 @@ Design of this watch face was inspired by flipdot information boards typically i
 
 ## Preview
 ![Screenshot](./logo.jpg)
+
+## Privacy Policy
+Read privacy policy [here](PrivacyPolicy.md)
